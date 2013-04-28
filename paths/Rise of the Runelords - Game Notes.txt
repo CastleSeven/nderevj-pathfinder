@@ -13,6 +13,7 @@ Thaolos
 * Healed his teammates
 * Suggested to not kill Tsuto and bring him to justice
 * Discovered what had happened to Ameiko
+* Identified two rings of protection
 
 El Guapo
 --------
@@ -21,6 +22,7 @@ El Guapo
 * Received free potions from town
 * Bluffed Tsuto into giving a way the smugglers tunnel
 * Froze a Sinspawn to death
+* Assisted in identifying one of the rings of protection
 
 Maeglin
 -------
