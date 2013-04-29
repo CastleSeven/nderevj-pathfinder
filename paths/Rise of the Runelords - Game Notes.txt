@@ -18,7 +18,7 @@ Thaolos
 El Guapo
 --------
 * Identified Naulia in Tsuto's writings
-* Warned the town
+* Warned the town of an upcoming goblin attack
 * Received free potions from town
 * Bluffed Tsuto into giving a way the smugglers tunnel
 * Froze a Sinspawn to death
@@ -33,6 +33,7 @@ Maeglin
 
 Al
 --
+* Obliterated a goblin (56 points of damage)
 * Received Tsuto's letter
 * Broke the news to Ameiko
 
