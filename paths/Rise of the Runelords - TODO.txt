@@ -15,3 +15,4 @@
     - 1 for the trip to Thistletop
     - 1 just in case they go off the beaten path
 - [ ] Write-up next adventure "agenda"
+- [ ] Create some random loot
