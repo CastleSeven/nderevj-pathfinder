@@ -1,0 +1,17 @@
+- [ ] Research:
+    - Blood Rage (Feat - bunyip)
+    - Panicked (Condition - bunyip)
+    - Cause Fear (Spell - erylium)
+    - Alertness (Feat - erylium)
+    - Blinded (Dancing Lights Spell - erylium)
+    - Fatigued (Condition - erylium)
+    - Entangled (Condition - giant spider)
+    - Dazzled (Condition - gogmurt)
+    - Nauseated (Condition - koruvus)
+    - Sickened (Condition - sinspawn)
+    - Staggered (Condition - sinspawn)
+    - Paralyzed (Condition - vargouille)
+- [ ] Create 2 random wilderness encounters
+    - 1 for the trip to Thistletop
+    - 1 just in case they go off the beaten path
+- [ ] Write-up next adventure "agenda"
