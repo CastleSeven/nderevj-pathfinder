@@ -1,4 +1,4 @@
-- [ ] Research:
+- [X] Research:
     - Blood Rage (Feat - bunyip)
     - Panicked (Condition - bunyip)
     - Cause Fear (Spell - erylium)
@@ -11,8 +11,8 @@
     - Sickened (Condition - sinspawn)
     - Staggered (Condition - sinspawn)
     - Paralyzed (Condition - vargouille)
-- [ ] Create 2 random wilderness encounters
+- [X] Create 2 random wilderness encounters
     - 1 for the trip to Thistletop
     - 1 just in case they go off the beaten path
-- [ ] Write-up next adventure "agenda"
-- [ ] Create some random loot
+- [X] Write-up next adventure "agenda"
+- [X] Create some random loot
