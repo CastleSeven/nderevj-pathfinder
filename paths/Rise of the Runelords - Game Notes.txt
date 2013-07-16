@@ -1,66 +1,7 @@
-XP (4205 / 6 = 700 XP)
---
-3x Goblins - 405 XP
-Tsuto Kaijitsu - 600 XP
-Rescueing Ameiko - 1200 XP
-Finding Catacombs of Wrath - 200 XP
-3x Sinspawn - 1800 XP
-
-Loot
-----
-Gold from Goblins - 6 GP
-Potion of Cure Light Wounds
-Composite Shortbow w/ 20 arrows
-Ring of Protection +1
-Masterwork Thieves Tools
-Masterwork Flute
-Silver Earrings
-Journal
-6 pouches of gold dust
-8 pouches of silver dust
-10 PP
-Masterwork / Artwork Ranseur
-
-Thaolos (120 XP)
--------
-* Got OheeOhee's assistance in removing the gate key - 5 XP
-* Fatal attack to Tsuto, stopped his bleeding, tied him up, healed him - 30 XP
-* Healed his teammates - 15 XP
-* Suggested to not kill Tsuto and bring him to justice - 10 XP
-* Healed Ameiko - 15 XP
-* Discovered what had happened to Ameiko - 30 XP
-* Identified two rings of protection - 15 XP
-
-Al (25 XP)
---
-* Obliterated a goblin (56 points of damage) - 10 XP
-* Received Tsuto's letter - 10 XP
-* Broke the news to Ameiko - 5 XP
-
-Maeglin (35 XP)
--------
-* Recovered Tsuto's journal - 10 XP
-* Discovered Ameiko - 10 XP
-* Discovered an alter with filthy, unnatural water - 5 XP
-* Killed a Sinspawn using acrobatics and his bow - 10 XP
-
-El Guapo (185 XP)
---------
-* Identified Naulia in Tsuto's writings - 50 XP
-* Warned the town of an upcoming goblin attack - 50 XP
-* Received free potions from town - 15 XP
-* Bluffed Tsuto into giving a way the smugglers tunnel - 50 XP
-* Froze a Sinspawn to death - 10 XP
-* Assisted in identifying one of the rings of protection - 10 XP
-
-OheeOhee (50 XP)
---------
-* Delicately removed the gate key - 5 XP
-* Punched a Goblin to death (while studying the gate key) - 10 XP
-* Identified Tsuto - 15 XP
-* Interrogated Tsuto and brought him to justice - 15 XP
-* Identified a Sinspawn - 5 XP
-
-Fane
-----
-* Trampled a Sinspawn
+Part 4 - Quiz on Part 3
+-----------------------
+Iradli: 25 XP
+Laidir: 15 XP
+Maeglin: 15 XP
+OheeOhee: 30 XP
+Thaolos: 35 XP
