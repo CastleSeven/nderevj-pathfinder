@@ -28,7 +28,7 @@ Laidir spent some time floating in a mysterious room, when the time had come to 
 Maeglin, feeling quite macho after inflicting a number of fatal arrow wounds, whipped it out and peed in the very fountain that Laidir was bathing in. -- 35 XP
 Maeglin's exploration of the catacombs revealed a few mutilated and deformed bodies and collapsed stairwells leading up and down. OheeOhee questioned their importance. -- 35 XP
 
-Group XP (470 XP each)
+Group XP (2800 / 5 = 560 XP)
 ----------------------
 Killing all the zombies in the chamber guarded by Koruvus -- 200 XP
 Killing Koruvus -- 800 XP
@@ -37,8 +37,8 @@ Killing the Vargouille -- 600 XP
 
 Character XP Gained
 -------------------
-Iradli:   615 XP (2306 / 5000 - Level 2)
-Laidir:   590 XP (2506 / 5000 - Level 2)
-Maeglin:  555 XP (2441 / 5000 - Level 2)
-OheeOhee: 555 XP (2476 / 5000 - Level 2)
-Thaolos:  675 XP (2629 / 5000 - Level 2)
+Iradli:   705 XP (2396 / 5000 - Level 2)
+Laidir:   680 XP (2596 / 5000 - Level 2)
+Maeglin:  645 XP (2531 / 5000 - Level 2)
+OheeOhee: 645 XP (2566 / 5000 - Level 2)
+Thaolos:  765 XP (2719 / 5000 - Level 2)
