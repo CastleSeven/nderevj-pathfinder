@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<document signature="Hero Lab Data">
+  <thing id="ipNDEagleW" name="Bottle of Eagle Wing wine" description="Subject flies at speed of 60 ft.\n\nWhen consumed, you can fly for 1d4 rounds as a move action. However, consuming this wine also makes you sick (curse) for the duration of the spell. You take a -2 penalty on all attack rolls, weapon damage rolls, saving throws, skill checks, and ability checks. Flight works just like the Fly spell except the duration is 1d4 rounds." compset="OilPotion" summary="A finely crafted bottle of Eagle Wing wine." stacking="merge" uniqueness="unique">
+    <fieldval field="gCost" value="750"/>
+    <fieldval field="iCL" value="5"/>
+    <tag group="iSchool" tag="Transmutat" name="Transmutation" abbrev="Trans"/>
+    </thing>
+  <thing id="irNDTelepR" name="Ring of instant teleportation" description="Move action to activate, simply think about the destination\n\nCan only teleport yourself and your belongings (At level 5, you can teleport 1 medium or smaller creature as long as you can touch them, at level 10, 2)\n\n60&apos; range, increases by 60&apos; every level (At level 2, 120&apos;)\n\n1 time per day, increase by 1 every 2 levels (At level 2, 2 times per day)\n\n100% chance of teleporting you randomly within a 40&apos; square of your destination. This decreases by 15% every 2 levels. (At level 2, 85% chance).\n\n20% chance that you skin and hair color change\n\nFortitude save (DC 12) each day the ring is worn or take 1 point of damage against your primary ability score (Wizard&apos;s primary ability score is Int)" compset="Ring" summary="An intricately crafted ring." uniqueness="unique">
+    <fieldval field="gCost" value="12500"/>
+    </thing>
+  <thing id="ioNDDeathS" name="Death shriek golden arrow" description="The golden arrow is destroyed on use, has a -2 to attack roll (curse) because it is made of gold, but is enchanted with a modified version of the Scare spell. Creatures (allies and enemies) within 10 feet of its flight path become frightened with the possibility to make a Will Save. If the creature is under 6 HD, it does not save. If the creature is 6 HD or more it can attempt a DC 12 Will Save and instead be shaken for 1 round. Any creature that does become frightened is frightened for 1d4 rounds." compset="Wondrous" summary="A solid gold arrow with arcane symbols craved into it." uniqueness="unique">
+    <fieldval field="trkMax" value="1"/>
+    <fieldval field="gCost" value="250"/>
+    <tag group="User" tag="Tracker"/>
+    <tag group="Helper" tag="ShowSpec"/>
+    <tag group="gType" tag="Wonder"/>
+    </thing>
+  <thing id="ioNDWoodAn" name="Wooden anchor of holding" description="1 foot sized wooden anchor. It is enchanted with a modified Hold Person spell. As soon as anyone, other than yourself, holds or is attached to this anchor they become paralyzed for 1d4 rounds. They are allowed a DC 12 Will Save to negate the effect. Once negated they are immune to the effect. The enchantment never wears off of the anchor." compset="Wondrous" summary="A finely craved wooden anchor." uniqueness="unique">
+    <fieldval field="gCost" value="8001"/>
+    <fieldval field="gWeight" value="6"/>
+    <tag group="Helper" tag="ShowSpec"/>
+    <tag group="gType" tag="Wonder"/>
+    </thing>
+  <thing id="ioNDHandOf" name="Hand of the mage necklace" description="The necklace activates when worn. When worn it uses up a &quot;neck slot&quot; (you cannot have more than 1 magical necklace active). When you point your finger you can move an object, &quot;within reach&quot;, weighing up to a 5 lbs. The range of the objects &quot;within reach&quot; is 30 ft. As a move action you can propel the object as far as 15 ft in any direction. As a standard action you can make an attack by propelling the object. You would add your Wis modifier to the attack role. If the attack succeeds you deal 1d4 + Wis modifier damage." compset="Wondrous" summary="A small gold plated elven hand grasping a polished piece of glace, all attached to a solid gold necklace. The necklace activates when worn. When worn it uses up a &quot;neck slot&quot; (you cannot have more than 1 magical necklace active). When you point your">
+    <fieldval field="gCost" value="900"/>
+    <tag group="Helper" tag="ShowSpec"/>
+    <tag group="gType" tag="Wonder"/>
+    <tag group="Helper" tag="EquipAvail"/>
+    <tag group="Helper" tag="EquipMag"/>
+    <tag group="Hero" tag="EqpNeck"/>
+    </thing>
+  </document>
