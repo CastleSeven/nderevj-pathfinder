@@ -1,0 +1,122 @@
+Cure Light Wounds (reversible)
+Level: 1
+Duration: Permanent
+Range: Touch
+When this spell is cast, the cleric touches one character or
+creature (or himself) and heals it of 1d6+1 hit points of damage.
+Alternatively, this spell also cures paralysis; it will not heal
+damage and paralysis in the same casting. This spell cannot
+grant more hit points than the beingÊs normal maximum.
+
+Cause light wounds (reverse of cure light wounds) causes 1d6+1
+hit points of damage to a being if the caster can touch the
+opponent.
+
+Sanctuary
+Level: 1
+Duration: 2 rounds, +1 round per level
+Range: Touch
+Any opponent attempting to strike or otherwise directly attack
+the warded creature must attempt a saving throw versus spells.
+If the save succeeds, the opponent can attack normally and is
+unaffected by that casting of the spell. If the save fails, the
+opponent will not attack the caster and will attack another
+creature instead. However, area effects may still affect the cleric.
+The cleric must not make offensive actions while this spell is in
+effect, but he may cast non-offensive spells to help companions.
+
+Protection from Evil
+Level: 1
+Duration: 12 turns
+Range: Touch
+This spell wards a creature from attacks by evil creatures. It
+creates a magical barrier around the subject that moves with the
+subject. The subject gains a bonus to AC of –1 and a +1 bonus
+on saving throws. Both these bonuses apply against attacks
+made or effects created by evil creatures.
+
+In addition, this spell prevents bodily contact by summoned or
+created creatures. This causes the natural weapon attacks of
+such creatures to fail, and the creatures recoil if such attacks
+require touching the warded creature. However, these creatures
+can attempt missile attacks. The protection against contact by
+summoned creatures ends if the warded creature makes an
+attack against or tries to force the barrier against the blocked
+creature.
+
+Bless (reversible)
+Level: 2
+Duration: 6 turns
+Range: 60'
+Bless fills the caster's allies with courage, but does not affect
+enemies within the affected area of 20' x 20'. Each ally gains a
++1 morale bonus and +1 on attack and damage rolls.
+
+The reverse of this spell does not affect allies within the effect
+area, and incurs penalties of –1 instead of bonuses to the rolls
+indicated above.
+
+Hold Person
+Level: 2
+Duration: 9 turns
+Range: 180'
+When this spell is cast, most humanoids become paralyzed and
+freeze in place. Undead and any monster of a greater size than
+an ogre are unaffected. They are aware and breathe normally
+but cannot take any actions, even speech. Subjects may attempt
+a saving throw versus spells. This spell can affect 1d4 beings,
+but if directed at a single monster or character, the saving throw
+is attempted with a –2 penalty.
+
+Silence 15' Radius
+Level: 2
+Duration: 12 turns
+Range: 180'
+Upon the casting of this spell, complete silence prevails in a
+diameter of 30 feet. All sound is stopped and conversation is
+impossible. No noise whatsoever issues from the area, but noise
+originating from outside the silenced area can be heard by those
+within it. The spell can be cast on a point in space, but the
+effect is stationary unless cast on a mobile object. The spell can
+be centered on a creature, and the effect then radiates from the
+creature and moves as it moves. An unwilling creature can
+attempt a saving throw versus spells, and if successful the spell
+takes effect in a stationary location near the creature, but the
+creature may move out of the affected area.
+
+Dispel Magic
+Level: 3
+Duration: Permanent
+Range: 120'
+When cast, spell effects within a 20' cube can be negated. All
+spells cast by any spell casting class are automatically negated if
+the caster is of an equal or lower level to the caster of dispel
+magic. For each level an opponent is above the caster, there is
+a cumulative 5% chance dispel magic does not function. For
+example, if a 7th level character attempts to dispel the effects of
+a spell cast by a 10th level character, there is a 15% chance
+dispel magic fails.
+
+Prayer
+Level: 3
+Duration: 1 round per level
+Range: 0
+Prayer is a more advanced form of the spell holy chant. The
+function is identical, except that the area of effect is a 60'
+radius. In addition, it is unnecessary for the cleric to remain
+chanting. Once the spell is cast it lasts for its duration, while the
+cleric may cast other spells, attack, or take other actions.
+
+Holy Chant
+Level: 2
+Duration: See below
+Range: 0
+This spell is intoned continuously, bringing about supernatural
+intervention on behalf of the cleric and party members within a
+30' radius. All attacks, damage, and saving throws are made
+with a +1 bonus. Likewise, all of the rolls attempted by enemies
+suffer a -1 penalty. This effect continues so long as the cleric
+does not move and focuses only on chanting. However, if he is
+successfully attacked and dealt damage, or otherwise physically
+distracted, the spell ends. The spell silence also negates the
+spell.

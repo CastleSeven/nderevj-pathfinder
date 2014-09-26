@@ -1,0 +1,94 @@
+Confusion
+Level: 4
+Duration: 12 rounds
+Range: 120'
+This spell causes 3d6 targets to become confused, making them
+unable to independently determine what they will do.
+Roll on the following table at the beginning of each subject's
+turn each round to see what the subject does in that round.
+
+Roll 1d10 Behavior
+1-4 Attack caster's group.
+5-6 Do nothing but babble incoherently.
+7-10 Attack creatureÊs group.
+
+A confused character that canÊt carry out the indicated action
+does nothing but babble incoherently.
+
+Continual Light
+Level: 2
+Duration: Permanent
+Range: 120'
+This spell is similar to the 1st level cleric spell light. A 60'
+diameter sphere of light is brought into being, and is a
+permanent effect. This spell can be cast on objects so that the
+light is portable. This spell may be cast directly on a creature,
+but the creature receives a saving throw versus spells. If
+successfully cast on a creature's eyes, blindness results until the
+spell is negated with dispel magic .
+
+Dancing Lights
+Level: 1
+Duration: 2 rounds per level
+Range: 40', +10' per level
+The caster may create up to four lights that resemble either
+lanterns or torches (and cast that amount of light), or up to four
+glowing spheres of light (which look like will-o'-wisps), or one
+faintly glowing, vaguely humanoid shape. The dancing lights
+must stay within a 10' radius area in relation to each other but
+otherwise move as the caster desires (no concentration
+required): forward or back, up or down, straight or turning
+corners, or the like. The lights wink out if the distance between
+the caster and the light exceeds the spell's range, or the
+duration ends.
+
+Dimension Door
+Level: 4
+Duration: 1 round
+Range: 10'
+The caster instantly transfers himself or another creature from
+its current location to any other known spot within 360'. The
+being always arrives at exactly the spot desired. An unknown or
+unseen place may be specified. For example, 100' south and
+20' high, but if the destination is already occupied by a solid
+body, the spell fails.
+
+Mirror Image
+Level: 2
+Duration: 6 turns
+Range: 0
+Several illusory duplicates of the caster pop into being, making it
+difficult for enemies to know which target to attack. The
+figments stay near the caster and disappear when struck. Mirror
+image creates 1d4 images. The figments mimic the caster's
+actions, pretending to cast spells, drink potions, and so on.
+Enemies attempting to attack the caster strike a figment. Any
+attack destroys an image even if no physical contact is made,
+until there are no images left.
+
+Protection from Evil
+Level: 1
+Duration: 12 turns
+Range: Touch
+This spell wards a creature from attacks by evil creatures. It
+creates a magical barrier around the subject that moves with the
+subject. The subject gains a bonus to AC of –1 and a +1 bonus
+on saving throws. Both these bonuses apply against attacks
+made or effects created by evil creatures.
+
+In addition, this spell prevents bodily contact by summoned or
+created creatures. This causes the natural weapon attacks of
+such creatures to fail, and the creatures recoil if such attacks
+require touching the warded creature. However, these creatures
+can attempt missile attacks. The protection against contact by
+summoned creatures ends if the warded creature makes an
+attack against or tries to force the barrier against the blocked
+creature.
+
+Ventriloquism
+Level: 1
+Duration: 2 turns
+Range: 60'
+For the duration of this spell the caster may make his voice
+appear to come from any location or source within the spell
+range.
